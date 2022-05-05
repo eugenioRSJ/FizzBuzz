@@ -1,0 +1,15 @@
+C:\Users\eugen\Desktop\Pratica\bin\Debug\net6.0\Pratica.exe
+C:\Users\eugen\Desktop\Pratica\bin\Debug\net6.0\Pratica.deps.json
+C:\Users\eugen\Desktop\Pratica\bin\Debug\net6.0\Pratica.runtimeconfig.json
+C:\Users\eugen\Desktop\Pratica\bin\Debug\net6.0\Pratica.dll
+C:\Users\eugen\Desktop\Pratica\bin\Debug\net6.0\ref\Pratica.dll
+C:\Users\eugen\Desktop\Pratica\bin\Debug\net6.0\Pratica.pdb
+C:\Users\eugen\Desktop\Pratica\obj\Debug\net6.0\Pratica.csproj.AssemblyReference.cache
+C:\Users\eugen\Desktop\Pratica\obj\Debug\net6.0\Pratica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eugen\Desktop\Pratica\obj\Debug\net6.0\Pratica.AssemblyInfoInputs.cache
+C:\Users\eugen\Desktop\Pratica\obj\Debug\net6.0\Pratica.AssemblyInfo.cs
+C:\Users\eugen\Desktop\Pratica\obj\Debug\net6.0\Pratica.csproj.CoreCompileInputs.cache
+C:\Users\eugen\Desktop\Pratica\obj\Debug\net6.0\Pratica.dll
+C:\Users\eugen\Desktop\Pratica\obj\Debug\net6.0\ref\Pratica.dll
+C:\Users\eugen\Desktop\Pratica\obj\Debug\net6.0\Pratica.pdb
+C:\Users\eugen\Desktop\Pratica\obj\Debug\net6.0\Pratica.genruntimeconfig.cache
